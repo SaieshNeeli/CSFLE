@@ -74,7 +74,7 @@ Sensitive document fields
 
 ### Install Dependencies
 
-```bash
+
 pip install pymongo cryptography
 
 
