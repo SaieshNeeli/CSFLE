@@ -11,18 +11,17 @@ CSFLE ensures that **sensitive fields are encrypted in the client application it
 
 ## 📂 Project Structure
 
-C:
+<pre>
 .
 ├── README.md
-│
-├── crypt_file/
+├── crypt_file
 │   └── mongo_crypt_v1.dll
-│
-└── csfle_with_local_master_key/
+└── csfle_with_local_master_key
     ├── automatic_encrypt.py
     ├── create_key_vault.py
     ├── create_master_key.py
     └── get_dek.py
+</pre>
 
 ---
 
