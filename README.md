@@ -11,8 +11,8 @@ CSFLE ensures that **sensitive fields are encrypted in the client application it
 
 ## 📂 Project Structure
 
-'''
-C:.
+C:
+.
 │ README.md
 │
 ├── crypt_file/
@@ -23,8 +23,6 @@ C:.
 ├── create_key_vault.py
 ├── create_master_key.py
 └── get_dek.py
-'''
-
 ---
 
 ## 🧠 What is CSFLE?
