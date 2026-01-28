@@ -166,3 +166,7 @@ Random	Maximum security (no querying)
 ---
 
 ## output
+
+If the CSFLE is sucessful the you can see the data as 
+<img width="226" height="287" alt="Screenshot 2025-11-25 094846" src="https://github.com/user-attachments/assets/2b9dd057-8730-450e-937b-5d480651e7cc" />
+
