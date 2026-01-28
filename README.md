@@ -156,6 +156,9 @@ print(client.mydb.mycollection.find_one())
 
 You should see encrypted binary values instead of plaintext.
 
+---
+
+## output
 ✅ That confirms CSFLE is working.
 
 🔐 Deterministic vs Random Encryption
